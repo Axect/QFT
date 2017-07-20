@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1500539124 "/home/lynn/Documents/QFT/Note.tex" "Note.pdf" "Note" 1500539125
+["pdflatex"] 1500539124 "/home/lynn/Documents/QFT/Note.tex" "Note.pdf" "Note" 1500539769
   "/etc/texmf/web2c/texmf.cnf" 1498713110 1101 af7716885e081ab43982cab7b4672c1a ""
   "/home/lynn/Documents/QFT/Note.tex" 1500539089 32265 bdd005cf7dae8f943bc03cec94b4b0e4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -200,9 +200,9 @@
   "logo.png" 1500539089 70648 c113210e1c768eed64d86251944923f6 ""
   "researchdiary_png.sty" 1500539089 11332 413d7ccaaf7937d662807ba5aaa3975a ""
   (generated)
-  "Note.aux"
-  "/home/axect/Valhala/LaTeX/QFT/Note.log"
   "Note.log"
-  "/home/axect/Valhala/LaTeX/QFT/Note.pdf"
   "Note.pdf"
+  "/home/axect/Valhala/LaTeX/QFT/Note.log"
+  "/home/axect/Valhala/LaTeX/QFT/Note.pdf"
+  "Note.aux"
   "Note.thm"
